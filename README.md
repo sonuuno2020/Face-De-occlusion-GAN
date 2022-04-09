@@ -6,3 +6,5 @@
 
 •	Generate De-occluded face images.
 
+Results obtained :
+
