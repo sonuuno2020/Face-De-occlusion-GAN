@@ -8,3 +8,4 @@
 
 Results obtained :
 
+frechet inception distance = 82~85%
