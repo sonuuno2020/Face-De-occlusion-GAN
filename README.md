@@ -4,6 +4,9 @@
 
 •	Work with occluded face images ( Computer Vision problem ).
 
+* Dataset : (training)[https://drive.google.com/uc?id=1-JVnG_wVJR3VgAwi6-Hhu2C-ZAyQ2-_9]
+*  (testing)[https://drive.google.com/uc?id=1-7E0x-UGFjotUH8UJAWruM9Y0rwEzYzV]
+
 •	Generate De-occluded face images.
 
 Results obtained :
