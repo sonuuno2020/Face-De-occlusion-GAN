@@ -14,11 +14,13 @@
 
 •	Generate De-occluded face images.
 
+**Pdf contains a quick overview of code**
+
 Results obtained :
 
 **frechet inception distance = 82~85%**
 
-**Pdf contains a quick overview of code**
+
 
 ***Sanpshot for 100 & 250 epochs of trainig for 128x128 image size***
 
