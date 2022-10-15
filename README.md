@@ -1,7 +1,6 @@
 # Face-De-occlusion-GAN
 
-•	Build a GAN model with **mixed precision** ( 2 adversarial CNN model ).
-![image](https://user-images.githubusercontent.com/75153245/195971725-730e67d8-0ea8-484a-8327-b40ef2f3687b.png)
+•	Build a GAN model with **mixed precision** ( 2 adversarial CNN model ).![image](https://user-images.githubusercontent.com/75153245/195971725-730e67d8-0ea8-484a-8327-b40ef2f3687b.png)
 
 
 •	Work with occluded face images ( Computer Vision problem ).
